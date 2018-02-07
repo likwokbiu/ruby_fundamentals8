@@ -1,0 +1,4 @@
+Please enter your name: bill
+Who goes there?
+Please enter your name: JOHN
+Hello, John!
