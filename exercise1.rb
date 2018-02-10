@@ -1,7 +1,7 @@
 def sum_odd(list)
   sum = 0
   list.each do |number|
-    if number % 2 == 1
+    if number.odd?
       sum += number
     end
   end
